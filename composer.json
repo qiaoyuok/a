@@ -1,0 +1,22 @@
+{
+    "name": "a/aaa",
+    "description": "Baidu realizes picture recognition text package(百度实现图片识别文字包)",
+    "keywords": ["ex"],
+    "type": "demo",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "qiaoyuok",
+            "email": "wahaha@qq.com",
+            "homepage": "https://www.baidu.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "huaweichenai\\discern\\": "src"
+        }
+    }
+}
+
